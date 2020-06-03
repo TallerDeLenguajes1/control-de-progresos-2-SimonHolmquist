@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Dynamic;
 
 namespace ConsoleApp1
 {
@@ -6,7 +7,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Personaje personaje = new Personaje();
+            Personaje pj = new Personaje();
         }
     }
 }
